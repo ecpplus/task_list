@@ -1,9 +1,10 @@
 {
-  "name": "deckar01-task_list",
-  "version": "2.3.1",
+  "name": "ecpplus-forked-task_list",
+  "version": "2.3.2",
   "description": "Markdown TaskList components",
   "main": "dist/task_list.js",
   "directories": {
+    "lib": "lib",
     "test": "test"
   },
   "files": [
